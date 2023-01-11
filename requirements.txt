@@ -1,0 +1,4 @@
+pandas~=1.5.2
+scikit-learn==1.2.0
+torch~=1.13.1
+-e git+https://github.com/vanderschaarlab/synthcity.git@14c703e62f16ec65737a54dadb6ebe7041468b30#egg=synthcity

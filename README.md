@@ -17,7 +17,7 @@ And these sockets are allocated on a first come, first served basis.
 The Lab is based on the open-source Python library [synthcity](https://github.com/vanderschaarlab/synthcity). 
 To make the most out of the Lab, we recommend the participants to explore the library beforehand. Here is a list of useful materials:
 
-- The whitepaper on synthcity and innovative uses of synthetic data (TODO)
+- The [whitepaper](https://arxiv.org/abs/2301.07573) on synthcity and innovative uses of synthetic data
 - The GitHub repository of [synthcity](https://github.com/vanderschaarlab/synthcity)
 - The synthcity [documentation](https://synthcity.readthedocs.io/en/latest/) 
 

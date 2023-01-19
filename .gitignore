@@ -3,3 +3,4 @@ data/
 Tutorials/checkpoints/*
 Tutorials/saved_models/*
 Tutorials/workspace/*
+Tutorials/private_notebook_code

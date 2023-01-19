@@ -27,9 +27,18 @@ To make the most out of the Lab, we recommend the participants to explore the li
 
 ### Schedule
 
+| Start | End | Session Title | Description |
+|-------|-----|---------------|-------------|
+| 2:00pm | 2:30pm | Opening and Intro | We go through the promise of synthetic data in empowering AI development and the associated challenges.|
+| 2:30pm | 3:15pm | Data Modality | We demonstrate how synthcity can generate tabular data with diverse modalities, including static data, regular and irregular time series, data with censoring, multi-source data, and composite data.|
+| 3:15pm | 3:30pm | Q&A |||
+| 3:30pm | 4:00pm | Break |||
+| 4:00pm | 4:30pm | Fairness| We show how synthetic data can promote ML fairness by (1) augmenting minority classes with conditional generation and (2) removing bias via causal generation. |
+| 4:30pm | 5:00pm | Privacy | We introduce privacy-preserving synthetic data generators that facilitates sharing of sensitive data. We will cover differential-privacy based methods as well as methods that defend against specific threat models.|
+| 5:00pm | 5:30pm | Transfer | We show how to alleviate data scarcity by augmenting a small dataset using information learned from other related datasets in a transfer learning style.|
+| 5:30pm | 5:45pm | Q&A	|||
+| 5:45pm | 6:00pm | Further Engagement | We discuss ways of further engaging with the application and development of synthcity.|
 
-
-Copy from here: https://www.vanderschaar-lab.com/aaai-23-synthetic-data-tutorial/
 
 
 ## After the lab

@@ -27,6 +27,8 @@ To make the most out of the Lab, we recommend the participants to explore the li
 
 ### Schedule
 
+Please note that all times are reported in EST (UTC-05:00).
+
 | Start | End | Session Title | Description |
 |-------|-----|---------------|-------------|
 | 2:00pm | 2:30pm | Opening and Intro | We go through the promise of synthetic data in empowering AI development and the associated challenges.|
@@ -46,6 +48,8 @@ To make the most out of the Lab, we recommend the participants to explore the li
 Download and use the library - join the development. 
 Raise issues and open pull requests.
 
-If you've enjoyed the lab, why not **Star [Synthcity](https://github.com/vanderschaarlab/synthcity) on GitHub**. It's the easiest way to help our community is just by starring the Repos! This helps raise awareness of the tools we're building.
+If you've enjoyed the lab, why not **Star [Synthcity](https://github.com/vanderschaarlab/synthcity) on GitHub**. The easiest way to help our community is just by starring the Repos! This helps raise awareness of the tools we're building.
+
+Sign up to our synthetic data [mailing list](https://forms.gle/rbXnwDUN8zonC8eR8) to stay up to date on news about the SyntheticData4ML community. We will post about upcoming tutorials, workshops, competitions, hackathons and more! 
 
 Join our Machine Learning Engagement sessions, "Inspiration Exchange", for discussions of our research projects and software, such as Synthcity. Sign up [here](https://www.vanderschaar-lab.com/engagement-sessions/inspiration-exchange/).

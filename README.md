@@ -46,5 +46,6 @@ To make the most out of the Lab, we recommend the participants to explore the li
 Download and use the library - join the development. 
 Raise issues and open pull requests.
 
+If you've enjoyed the lab, why not **Star [Synthcity](https://github.com/vanderschaarlab/synthcity) on GitHub**. It's the easiest way to help our community is just by starring the Repos! This helps raise awareness of the tools we're building.
 
-community mailing list scription.
+Join our Machine Learning Engagement sessions, "Inspiration Exchange", for discussions of our research projects and software, such as Synthcity. Sign up [here](https://www.vanderschaar-lab.com/engagement-sessions/inspiration-exchange/).

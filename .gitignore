@@ -1,5 +1,13 @@
-src/
-data/
+# Data contents
+data/*
+!data/Brazil_COVID/
+
+data/Brazil_COVID/*
+!data/Brazil_COVID/covid_normalised_numericalised.csv
+!data/Brazil_COVID/Brazil_Labelled_Map.png
+!data/Brazil_COVID/Brazil_COVID_data.md
+
+# Tutorials
 Tutorials/checkpoints/*
 Tutorials/saved_models/*
 Tutorials/workspace/*

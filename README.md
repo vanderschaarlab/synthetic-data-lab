@@ -32,7 +32,7 @@ Please note that all times are reported in EST (UTC-05:00).
 | Start | End | Session Title | Description |
 |-------|-----|---------------|-------------|
 | 2:00pm | 2:30pm | Opening and Intro | We go through the promise of synthetic data in empowering AI development and the associated challenges.|
-| 2:30pm | 3:15pm | Data Modality | We demonstrate how synthcity can generate tabular data with diverse modalities, including static data, regular and irregular time series, data with censoring, multi-source data, and composite data.|
+| 2:30pm | 3:15pm | Data Modality | We demonstrate how synthcity can generate tabular data with diverse modalities, including static data, regular and irregular time series, data with censoring, multi-source data, and composite data. | 
 | 3:15pm | 3:30pm | Q&A |||
 | 3:30pm | 4:00pm | Break |||
 | 4:00pm | 4:30pm | Fairness| We show how synthetic data can promote ML fairness by (1) augmenting minority classes with conditional generation and (2) removing bias via causal generation. |
@@ -41,7 +41,7 @@ Please note that all times are reported in EST (UTC-05:00).
 | 5:30pm | 5:45pm | Q&A	|||
 | 5:45pm | 6:00pm | Further Engagement | We discuss ways of further engaging with the application and development of synthcity.|
 
-
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oH-fbdgveUADX1ujHzb1YsHHHZVwrWb_?usp=sharing)
 
 ## After the lab
 

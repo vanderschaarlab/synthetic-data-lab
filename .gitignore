@@ -1,3 +1,6 @@
+# Caching
+__pycache__/
+
 # Data contents
 data/*
 !data/Brazil_COVID/

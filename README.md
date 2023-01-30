@@ -41,7 +41,8 @@ Please note that all times are reported in EST (UTC-05:00).
 | 5:30pm | 5:45pm | Q&A	|||
 | 5:45pm | 6:00pm | Further Engagement | We discuss ways of further engaging with the application and development of synthcity.|
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oH-fbdgveUADX1ujHzb1YsHHHZVwrWb_?usp=sharing)
+
+The Interactive tutorials are available here: [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1oH-fbdgveUADX1ujHzb1YsHHHZVwrWb_?usp=sharing)
 
 ## After the lab
 

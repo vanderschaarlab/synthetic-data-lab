@@ -1,5 +1,6 @@
 # Caching
 __pycache__/
+.ipynb_checkpoints
 
 # Data contents
 data/*

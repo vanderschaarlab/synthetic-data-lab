@@ -33,7 +33,6 @@ jobs:
         run: |
             pip install --upgrade pip
             pip install torch~=1.13.1
-            pip install geomloss~=0.2.5
             pip install -r requirements.txt
             python -m pip install ipykernel
             python -m ipykernel install --user

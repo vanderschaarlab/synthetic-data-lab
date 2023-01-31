@@ -17,7 +17,7 @@ Tutorials/workspace/*
 Tutorials/private_notebook_code
 Tutorials/saved_models/*
 !Tutorials/saved_models/fairness.conditional_augmentation_ctgan_numericalised_rnd=42.bkp
-!Tutorials/saved_models/fairness.causal_generation_decaf_n_iter=20_rnd=42.bkp
+!Tutorials/saved_models/fairness.causal_generation_decaf_n_iter=100_rnd=42.bkp
 !Tutorials/saved_models/privacy.adsgan_numericalised_n_iter=100_rnd=42.bkp
 !Tutorials/saved_models/privacy.dpgan_numericalised_n_iter=100_rnd=42.bkp
 !Tutorials/saved_models/privacy.pategan_numericalised_n_iter=100_rnd=42.bkp

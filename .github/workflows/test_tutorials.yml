@@ -31,6 +31,7 @@ jobs:
         if: ${{ matrix.os == 'macos-latest' }}
       - name: Install dependencies
         run: |
+            pip install --upgrade pip
             pip install -r requirements.txt
             python -m pip install ipykernel
             python -m ipykernel install --user

@@ -40,4 +40,4 @@ jobs:
             pip install -r requirements.txt
             python -m ipykernel install --user
       - name: Run tutorials
-        run:  python tests/nb_eval.py --nb_dir Tutorials/
+        run:  python tests/nb_eval.py --nb_dir Tutorials

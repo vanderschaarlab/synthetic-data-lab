@@ -33,7 +33,10 @@ jobs:
         run: |
             pip install --upgrade pip
             # geomloss issue workaround : install numpy and torch before the library
-            pip install torch~=1.13.1 numpy ipykernel
+            pip install torch~=1.13.1 numpy 
+            # test depends
+            pip install ipykernel nbconvert
+            # install the library
             pip install -r requirements.txt
             python -m ipykernel install --user
       - name: Run the tutorial 1

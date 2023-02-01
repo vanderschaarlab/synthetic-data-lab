@@ -32,15 +32,12 @@ jobs:
       - name: Install dependencies
         run: |
             pip install --upgrade pip
-            pip install torch~=1.13.1
+            # geomloss issue workaround : install numpy and torch before the library
+            pip install torch~=1.13.1 numpy 
+            # test depends
+            pip install ipykernel nbconvert
+            # install the library
             pip install -r requirements.txt
-            python -m pip install ipykernel
             python -m ipykernel install --user
-      - name: Run the tutorial 1
-        run:  python tests/nb_eval.py --nb Tutorials/Case\ Study\ 1\ -\ Data\ Modality.ipynb
-      - name: Run the tutorial 2
-        run:  python tests/nb_eval.py --nb Tutorials/Case\ Study\ 2\ -\ Fairness.ipynb 
-      - name: Run the tutorial 3
-        run:  python tests/nb_eval.py --nb Tutorials/Case\ Study\ 3\ -\ Privacy.ipynb 
-      - name: Run the tutorial 4
-        run:  python tests/nb_eval.py --nb Tutorials/Case\ Study\ 4\ -\ Augmentation\ by\ Domain\ Adaptation.ipynb 
+      - name: Run tutorials
+        run:  python tests/nb_eval.py --nb_dir Tutorials

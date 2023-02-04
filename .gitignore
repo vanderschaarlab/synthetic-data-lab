@@ -26,6 +26,7 @@ resources/fairness/*
 !resources/augmentation/augmentation_xgboost_real_Central-West_data.json
 !resources/fairness/fairness_cond_aug_random_forest_real_data.sav
 !resources/fairness/fairness_cond_aug_random_forest_augmented_data.sav
+!resources/fairness/fairness_causal_gen_decaf_synthetic_data.json
 
 
 # Tutorials

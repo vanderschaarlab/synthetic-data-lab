@@ -2,6 +2,9 @@
 __pycache__/
 .ipynb_checkpoints
 
+# vscode
+.vscode/
+
 # Data contents
 data/*
 !data/Brazil_COVID/
@@ -11,6 +14,20 @@ data/Brazil_COVID/*
 !data/Brazil_COVID/Brazil_Labelled_Map.png
 !data/Brazil_COVID/Brazil_COVID_data.md
 
+# Resources
+resources/*
+!resources/augmentation/
+!resources/fairness/
+
+resources/augmentation/*
+resources/fairness/*
+!resources/augmentation/augmentation_xgboost_augmented_data.json
+!resources/augmentation/augmentation_xgboost_real_all_data.json
+!resources/augmentation/augmentation_xgboost_real_Central-West_data.json
+!resources/fairness/fairness_cond_aug_random_forest_real_data.sav
+!resources/fairness/fairness_cond_aug_random_forest_augmented_data.sav
+
+
 # Tutorials
 Tutorials/checkpoints/*
 Tutorials/private_notebook_code
@@ -19,11 +36,18 @@ Tutorials/workspace/*
 # !Tutorials/workspace/sc_metric_cache*
 # Saved models
 Tutorials/saved_models/*
-# !Tutorials/saved_models/fairness.conditional_augmentation_ctgan_numericalised_rnd=42.bkp
-# # !Tutorials/saved_models/fairness.causal_generation_decaf_n_iter=100_rnd=42.bkp
-# !Tutorials/saved_models/fairness.causal_generation_decaf_n_iter=10_rnd=6.bkp
-# !Tutorials/saved_models/privacy.adsgan_numericalised_n_iter=100_rnd=42.bkp
-# !Tutorials/saved_models/privacy.dpgan_numericalised_n_iter=100_rnd=42.bkp
-# !Tutorials/saved_models/privacy.pategan_numericalised_n_iter=100_rnd=42.bkp
-# !Tutorials/saved_models/augmentation.radialgan_numericalised_Central-West_n_iter=100_rnd=42.bkp
+
+!Tutorials/saved_models/fairness.conditional_augmentation_ctgan_numericalised_rnd=42.bkp
+!Tutorials/saved_models/privacy.adsgan_numericalised_n_iter=100_rnd=42.bkp
+!Tutorials/saved_models/privacy.dpgan_numericalised_n_iter=100_rnd=42.bkp
+!Tutorials/saved_models/privacy.pategan_numericalised_n_iter=100_rnd=42.bkp
+!Tutorials/saved_models/augmentation.radialgan_numericalised_Central-West_n_iter=100_rnd=7_final.bkp
+# !Tutorials/saved_models/augmentation.radialgan_numericalised_Central-West_n_iter=100_rnd=7.bkp
+
+!Tutorials/saved_models/fairness.causal_generation_decaf_n_iter=101_rnd=6.bkp 
+# Fairness through unawareness scores 
+# real data: 0.002542680711950629 | synthetic data: 0.022520886305848142
+# Demographic Parity scores 
+# real data: 0.012881495468771431 | synthetic data: 0.004537630137213033
+
 

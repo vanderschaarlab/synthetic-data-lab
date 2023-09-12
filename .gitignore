@@ -42,6 +42,9 @@ Tutorials/saved_models/*
 !Tutorials/saved_models/privacy.adsgan_numericalised_n_iter=100_rnd=42.bkp
 !Tutorials/saved_models/privacy.dpgan_numericalised_n_iter=100_rnd=42.bkp
 !Tutorials/saved_models/privacy.pategan_numericalised_n_iter=100_rnd=42.bkp
+!Tutorials/saved_models/privacy.adsgan_numericalised_n_iter=100_rnd=1.bkp
+!Tutorials/saved_models/privacy.dpgan_numericalised_n_iter=100_rnd=1.bkp
+!Tutorials/saved_models/privacy.pategan_numericalised_n_iter=100_rnd=1.bkp
 !Tutorials/saved_models/augmentation.radialgan_numericalised_Central-West_n_iter=100_rnd=7_final.bkp
 # !Tutorials/saved_models/augmentation.radialgan_numericalised_Central-West_n_iter=100_rnd=7.bkp
 

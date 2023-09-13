@@ -7,5 +7,5 @@ torch~=1.13.1
 torchaudio==0.13.1
 torchdata==0.5.1
 lightning-lite~=1.8.6
-synthcity=0.1.9
+synthcity>=0.1.9
 seaborn~=0.12.2

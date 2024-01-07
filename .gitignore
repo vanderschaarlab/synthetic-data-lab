@@ -27,6 +27,7 @@ resources/fairness/*
 !resources/fairness/fairness_cond_aug_random_forest_real_data.sav
 !resources/fairness/fairness_cond_aug_random_forest_augmented_data.sav
 !resources/fairness/fairness_causal_gen_decaf_synthetic_data.json
+!resources/augmentation/augmentation.radialgan_numericalised_Central-West_n_iter=100_rnd=8_final.bkp
 
 
 # Tutorials

@@ -4,5 +4,6 @@ pandas
 scikit-learn
 scikit-survival
 sktime
+tslearn
 lightning-lite~=1.8.6
 seaborn~=0.12.2
